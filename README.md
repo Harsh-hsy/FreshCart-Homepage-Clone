@@ -5,13 +5,6 @@ The FreshCart Homepage Clone is a frontend web development project aimed at repl
 
 This project is a clone of the homepage of **FreshCart**, a grocery shopping website. It showcases a responsive and user-friendly interface designed to provide a seamless experience for browsing and shopping for groceries online.
 
----
-
-## 🚀 Live Demo
-Check out the live version of the project here: [FreshCart Homepage Clone](https://Harsh-hsy.github.io/FreshCart-Homepage-Clone/).  
-
----
-
 ## 🛠️ Features
 
 - **Responsive Design**: Adapts to various screen sizes, ensuring usability on both desktop and mobile devices.
