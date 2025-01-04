@@ -5,7 +5,7 @@ This project is a clone of the homepage of **FreshCart**, a grocery shopping web
 ---
 
 ## 🚀 Live Demo
-Check out the live version of the project here: [FreshCart Homepage Clone]((https://harsh-hsy.github.io/FreshCart-Homepage-Clone/)) 
+Check out the live version of the project here: [FreshCart Homepage Clone](https://harsh-hsy.github.io/FreshCart-Homepage-Clone/) 
 
 ---
 
