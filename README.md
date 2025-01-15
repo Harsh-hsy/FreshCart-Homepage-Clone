@@ -4,11 +4,6 @@ This project is a clone of the homepage of **FreshCart**, a grocery shopping web
 
 ---
 
-## 🚀 Live Demo
-Check out the live version of the project here: [FreshCart Homepage Clone](https://harsh-hsy.github.io/FreshCart-Homepage-Clone/) 
-
----
-
 ## 🛠️ Features
 
 - **Responsive Design**: Adapts to various screen sizes, ensuring usability on both desktop and mobile devices.
